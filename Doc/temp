@@ -1,1 +1,7 @@
-##hello
+### CREATE VIRTUAL ENVIRONEMENT ###
+
+pip install vitualenv ----use this cli command to install
+vitualenv env ----use to create env in folder
+env\Scripts\activate  ----use to enable the env 
+deactivate   ----deactivate
+pip install -r requirement.txt  ----intall all the packages
